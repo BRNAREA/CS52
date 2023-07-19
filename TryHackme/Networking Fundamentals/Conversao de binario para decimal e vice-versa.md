@@ -1,0 +1,1 @@
+![[Conversao de binario para decimal e vice-versa 2023-06-07 14.18.42.excalidraw]]

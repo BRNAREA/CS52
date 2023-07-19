@@ -1,0 +1,162 @@
+{
+  "firstRun": false,
+  "initialized": [
+    {
+      "path": "/",
+      "initialized": true
+    }
+  ],
+  "trackedProjects": [
+    "/"
+  ],
+  "checkpointList": [
+    {
+      "path": "/",
+      "date": "2023-07-17",
+      "size": 437879
+    }
+  ],
+  "activityHistory": [
+    {
+      "path": "/",
+      "size": [
+        {
+          "date": "2023-04-04",
+          "value": 3603
+        },
+        {
+          "date": "2023-04-05",
+          "value": 139
+        },
+        {
+          "date": "2023-04-17",
+          "value": 913
+        },
+        {
+          "date": "2023-06-02",
+          "value": 82373
+        },
+        {
+          "date": "2023-06-03",
+          "value": 21
+        },
+        {
+          "date": "2023-06-04",
+          "value": 21
+        },
+        {
+          "date": "2023-06-05",
+          "value": 170564
+        },
+        {
+          "date": "2023-06-06",
+          "value": 1044
+        },
+        {
+          "date": "2023-06-07",
+          "value": 16298
+        },
+        {
+          "date": "2023-06-08",
+          "value": 21
+        },
+        {
+          "date": "2023-06-09",
+          "value": 56603
+        },
+        {
+          "date": "2023-06-10",
+          "value": 21
+        },
+        {
+          "date": "2023-06-11",
+          "value": 21
+        },
+        {
+          "date": "2023-06-12",
+          "value": 59102
+        },
+        {
+          "date": "2023-06-13",
+          "value": 21
+        },
+        {
+          "date": "2023-06-14",
+          "value": 107517
+        },
+        {
+          "date": "2023-06-15",
+          "value": 35600
+        },
+        {
+          "date": "2023-06-16",
+          "value": 21
+        },
+        {
+          "date": "2023-06-17",
+          "value": 21
+        },
+        {
+          "date": "2023-06-19",
+          "value": 261
+        },
+        {
+          "date": "2023-06-20",
+          "value": 96
+        },
+        {
+          "date": "2023-06-22",
+          "value": 244
+        },
+        {
+          "date": "2023-06-23",
+          "value": 74
+        },
+        {
+          "date": "2023-06-24",
+          "value": 21
+        },
+        {
+          "date": "2023-06-25",
+          "value": 21
+        },
+        {
+          "date": "2023-06-26",
+          "value": 21
+        },
+        {
+          "date": "2023-07-04",
+          "value": 532
+        },
+        {
+          "date": "2023-07-06",
+          "value": 1343
+        },
+        {
+          "date": "2023-07-07",
+          "value": 21
+        },
+        {
+          "date": "2023-07-10",
+          "value": 43
+        },
+        {
+          "date": "2023-07-11",
+          "value": 703
+        },
+        {
+          "date": "2023-07-17",
+          "value": 1960
+        }
+      ]
+    }
+  ],
+  "activityColor1": "#c6e48b",
+  "activityColor2": "#7bc96f",
+  "activityColor3": "#239a3b",
+  "activityColor4": "#196127",
+  "textColor": "#000000",
+  "emptyColor": "#ecedf0",
+  "cellRadius": 1,
+  "type": "yearly"
+}

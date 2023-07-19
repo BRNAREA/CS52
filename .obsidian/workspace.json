@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "95276bde2b228405",
+    "type": "split",
+    "children": [
+      {
+        "id": "a62546f916cbcdd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a9713d2bc20d35a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciências da Computação/Threads/Introdução a Threads.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c42721d7cd6e06c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackme/Networking Fundamentals/Classes IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc899e74d92fa249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-07-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ad64b864696e844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Researchs/API Whatsapp-web/Puppeteer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8f1e661ce9ef8a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-07-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a4ea717b7999412",
+    "type": "split",
+    "children": [
+      {
+        "id": "88d3c9473cfa7af8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df52db7b9cb7b31b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa27b49200c6bd75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94bc378306941c94",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "220fa40bd247a921",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "27fdb0130fe5ee94",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51719a6fceb6be0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ab94333a6b76ece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "560a02967f41ee0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Researchs/API Whatsapp-web/Puppeteer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92a087feb1fbbaf0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Researchs/API Whatsapp-web/Puppeteer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec54c1c7e62d6167",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ea75fb5ebd357611",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Researchs/API Whatsapp-web/Puppeteer.md"
+              }
+            }
+          },
+          {
+            "id": "fe62dedae07c20b6",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9776d3613263f84e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "df52db7b9cb7b31b",
+  "lastOpenFiles": [
+    "2023-07-07.md",
+    "Researchs/API Whatsapp-web/Puppeteer.md",
+    "Researchs/API Whatsapp-web",
+    "Untitled",
+    "Researchs",
+    "2023-06-02.md",
+    "Livros/Estrutura de Dados e AbstraБ0К4Б0К0o.md",
+    "Day Planners/Day Planner-20230717.md",
+    "Livros/Javascript Design Patterns.md",
+    "Ciências da Computação/Threads/Introdução a Threads.md",
+    "Day Planners/Day Planner-20230713.md",
+    "TryHackme/Networking Fundamentals/Classes IP.md",
+    "Programação/JS POO/Testes/Mocks.md",
+    "Programação/JS POO/Testes",
+    "Day Planners/Day Planner-20230710.md",
+    "Ciências da Computação/Fundamentos Matématicos/Técnicas de Demonstrações (Parte Demonstração) - Fundamentos Matemáticos para Computação.md",
+    "Ciências da Computação/Fundamentos Matématicos/Equivalências Tautológicas (Parte III de Lógica) - Fundamentos Matemáticos para Computação.md",
+    "Excalidraw/Calculo de sub-rede Classe C 2023-06-12 18.36.47.excalidraw.md",
+    "Excalidraw/Equivalências Tautológicas (Parte III de Lógica) - Fundamentos Matemáticos para Computação 2023-04-04 22.51.42.excalidraw.md",
+    "Livros/Compiladores Principios Tecnicas e Ferramenta - by Alfred V..md",
+    "Day Planners/Day Planner-20230707.md",
+    "Programação/JS POO/Classe/Classes em JavaScript.md",
+    "S.O's/Arch Linux/wget vs cURL.md",
+    "S.O's/Arch Linux/Linux in Five Days.md",
+    "S.O's/Arch Linux/Conseratndo icones da area de trabalho.md",
+    "Livros/Javascript -  O Guia Definitivo.md",
+    "Programação/JS POO/Operators/spread.md",
+    "Programação/JS POO/Objetos/Reflect object.md",
+    "Programação/JS POO/Objetos/Object.values().md",
+    "Programação/JS POO/Objetos/new Map().md",
+    "Untitled.canvas",
+    "TryHackme/Networking Fundamentals",
+    "S.O's/Windows",
+    "TryHackme",
+    "S.O's/NixOS",
+    "Ciências da Computação/Threads",
+    "a.mp3.webm"
+  ]
+}

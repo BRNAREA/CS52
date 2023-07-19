@@ -1,0 +1,3 @@
+# Internet Protocol (IP)
+
+**O protocolo IP é resposavel pelo endereçamento de dominios , com ele é possivel que uma requisição consiga chegar até o endereço desejado , já que com ele cada maquina tem um endereçamento.  O protocolo IP age juntamente com um segundo protocolo de segurança de envios de informações chamado [[Protocolo TCP]] , esses dois protocolos foram o TCP/IP um dos mais famosos da web , tambem usado junto com o protocolo HTTP em [[Explicando o HTTP]]**

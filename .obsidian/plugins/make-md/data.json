@@ -1,0 +1,76 @@
+{
+  "defaultInitialization": false,
+  "filePreviewOnHover": false,
+  "flowMenuEnabled": true,
+  "markSans": false,
+  "blinkEnabled": true,
+  "makeMenuPlaceholder": true,
+  "mobileMakeBar": true,
+  "inlineStyler": true,
+  "makerMode": true,
+  "inlineStylerColors": true,
+  "editorFlow": true,
+  "internalLinkClickFlow": true,
+  "contextEnabled": true,
+  "saveAllContextToFrontmatter": true,
+  "editorFlowStyle": "seamless",
+  "autoOpenFileContext": false,
+  "activeView": "root",
+  "hideFrontmatter": true,
+  "activeSpace": "",
+  "spacesCompactMode": false,
+  "defaultDateFormat": "MMM dd yyyy",
+  "spacesEnabled": false,
+  "spacesPerformance": false,
+  "collapsedTags": [],
+  "enableFolderNote": true,
+  "folderIndentationLines": true,
+  "revealActiveFile": false,
+  "spacesStickers": true,
+  "spaceRowHeight": 29,
+  "spacesDisablePatch": false,
+  "folderNoteInsideFolder": true,
+  "sidebarTabs": true,
+  "showRibbon": true,
+  "deleteFileOption": "trash",
+  "expandedFolders": {
+    "/": [
+      "Ciências da Computação",
+      "Ciências da Computação/Fundamentos Matématicos"
+    ]
+  },
+  "expandedSpaces": [
+    "/",
+    null
+  ],
+  "openFolders": [],
+  "fileIcons": [],
+  "cachedSpaces": [],
+  "menuTriggerChar": "/",
+  "emojiTriggerChar": ":",
+  "folderContextFile": "context",
+  "tagContextFolder": "Context",
+  "hiddenFiles": [
+    "Context"
+  ],
+  "lineNumbers": false,
+  "hiddenExtensions": [
+    "mdb"
+  ],
+  "vaultSort": [
+    "rank",
+    true
+  ],
+  "inlineBacklinks": false,
+  "inlineContext": true,
+  "inlineBacklinksExpanded": true,
+  "inlineContextExpanded": true,
+  "inlineContextSectionsExpanded": true,
+  "dataviewInlineContext": false,
+  "inlineContextNameLayout": "vertical",
+  "spacesSyncLastUpdated": "Context/spacesLastSync.log",
+  "spacesSyncTimeoutSeconds": 10,
+  "spacesAutoBackup": true,
+  "spacesAutoBackupInterval": 10,
+  "spacesAutoBackupLast": 1680747627105
+}

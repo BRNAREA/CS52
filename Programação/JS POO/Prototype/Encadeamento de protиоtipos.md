@@ -1,0 +1,2 @@
+# Encademento de prototipos
+Trata-se de um mecanismo de herança de JavaScript  e está descrito na Seção 6.2.2. Para avaliar a expressão o instanceof f, JavaScript avalia f.prototype e depois procura esse valor no encadeamento de protótipos de o. Se o encontra, então o é uma instância de f (ou de uma superclasse de f) e o operador retorna true. Se f.prototype não é um dos valores no encadeamento de protótipos de o, então o não é uma instância de f e instanceof retorna false
