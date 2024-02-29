@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sites/UTEIS.md",
+                "file": "Animes/Lista.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sites/UTEIS.md",
+                "file": "Animes/Lista.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sites/UTEIS.md",
+                "file": "Animes/Lista.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sites/UTEIS.md"
+                "file": "Animes/Lista.md"
               }
             }
           },
@@ -228,36 +228,36 @@
   },
   "active": "51f02b842073713a",
   "lastOpenFiles": [
-    "Sites/MEGA.md",
-    "Sites/UTEIS.md",
-    "Programação/JavaScript/Links.md",
     "Programação/C#/Links.md",
+    "Animes/Lista.md",
+    "Livros/Ubuntu 22.04 LTS Guide.md",
+    "Livros/PHP - AplicaБ0К4Б0Л1es Web.md",
+    "Livros/Javascript Design Patterns.md",
+    "Livros/Linux Bible - Documentation.md",
+    "Livros/Javascript -  O Guia Definitivo.md",
+    "Livros/Estrutura de Dados e AbstraБ0К4Б0К0o.md",
+    "Livros/Compiladores Principios Tecnicas e Ferramenta - by Alfred V..md",
+    "Ciências da Computação/Fundamentos Matématicos/Técnicas de Demonstrações (Parte Demonstração) - Fundamentos Matemáticos para Computação.md",
+    "Ciências da Computação/Fundamentos Matématicos/Regras de Inferência.md",
+    "Ciências da Computação/Fundamentos Matématicos/Equivalências Tautológicas (Parte III de Lógica) - Fundamentos Matemáticos para Computação.md",
+    "Programação/Assembly/Loop.md",
+    "Programação/Assembly/Macros.md",
+    "Programação/Assembly/Processadores.md",
+    "Programação/Assembly/Registradores.md",
+    "Programação/Assembly/PLT E GOT.md",
+    "Programação/Assembly/Hello World.md",
+    "Programação/Assembly/Endereçamentos.md",
+    "Sites/UTEIS.md",
+    "Sites/MEGA.md",
+    "Programação/JavaScript/Links.md",
     "Sites/SITES UTEIS.md",
     "Hacking/Engenharia Reversa/Links.md",
     "Programação/Assembly/SITES.md",
-    "Programação/Assembly/Macros.md",
-    "Programação/Assembly/Hello World.md",
     "Pasted image 20240225212344.png",
     "Sites",
     "Hydra/Untitled.md",
     "Pasted image 20240229002200.png",
-    "Hydra/Possible Errors.md",
-    "Hydra/KEYBINDS.md",
-    "Hydra/Hydravim commands.md",
-    "Hydra/USER CONFIG.md",
-    "Hydra/INSTALLACAO.md",
-    "Hacking/Engenharia Reversa/Injeção de DLL.md",
     "Hydra",
-    "Excalidraw/Injeção de DLL 2024-02-28 20.12.16.excalidraw.md",
-    "Programação/Assembly/Endereçamentos.md",
-    "Minhas Lojas/Minhas cores.md",
-    "Programação/Assembly/PLT E GOT.md",
-    "Animes/Lista.md",
-    "Hacking/Engenharia Reversa/Concolic Testing.md",
-    "Hacking/Engenharia Reversa/Calling Convetions.md",
-    "Hacking/Engenharia Reversa/Import Tables.md",
-    "Hacking/Engenharia Reversa/Stack Overflow.md",
-    "Hacking/Engenharia Reversa/Análise de Programas.md",
     "Programação/Assembly/1708815974551.canvas",
     "Programação/Assembly/1708815928539.canvas",
     "Pasted image 20240224164319.png",
