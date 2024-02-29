@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56eedef66d03aaba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Animes/Lista.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Animes/Lista.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Animes/Lista.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -226,10 +238,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "51f02b842073713a",
+  "active": "56eedef66d03aaba",
   "lastOpenFiles": [
-    "Programação/C#/Links.md",
     "Animes/Lista.md",
+    "conflict-files-obsidian-git.md",
+    "Programação/C#/Links.md",
     "Livros/Ubuntu 22.04 LTS Guide.md",
     "Livros/PHP - AplicaБ0К4Б0Л1es Web.md",
     "Livros/Javascript Design Patterns.md",
@@ -255,7 +268,6 @@
     "Programação/Assembly/SITES.md",
     "Pasted image 20240225212344.png",
     "Sites",
-    "Hydra/Untitled.md",
     "Pasted image 20240229002200.png",
     "Hydra",
     "Programação/Assembly/1708815974551.canvas",
