@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/JavaScript/Links.md",
+                "file": "Sites/UTEIS.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/JavaScript/Links.md",
+                "file": "Sites/UTEIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programação/JavaScript/Links.md",
+                "file": "Sites/UTEIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programação/JavaScript/Links.md"
+                "file": "Sites/UTEIS.md"
               }
             }
           },
@@ -228,9 +228,10 @@
   },
   "active": "51f02b842073713a",
   "lastOpenFiles": [
-    "Programação/C#/Links.md",
-    "Programação/JavaScript/Links.md",
     "Sites/MEGA.md",
+    "Sites/UTEIS.md",
+    "Programação/JavaScript/Links.md",
+    "Programação/C#/Links.md",
     "Sites/SITES UTEIS.md",
     "Hacking/Engenharia Reversa/Links.md",
     "Programação/Assembly/SITES.md",
@@ -257,7 +258,6 @@
     "Hacking/Engenharia Reversa/Import Tables.md",
     "Hacking/Engenharia Reversa/Stack Overflow.md",
     "Hacking/Engenharia Reversa/Análise de Programas.md",
-    "Programação/Assembly/Constantes.md",
     "Programação/Assembly/1708815974551.canvas",
     "Programação/Assembly/1708815928539.canvas",
     "Pasted image 20240224164319.png",
