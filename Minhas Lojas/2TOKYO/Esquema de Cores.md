@@ -1,0 +1,3 @@
+- Primaria -> #ededed 
+- Secundaria -> #242526 
+- Terciaria -> #FF054C

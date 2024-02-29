@@ -9,5 +9,8 @@
   "highlightr-plugin",
   "omnisearch",
   "obsidian-audio-player",
-  "obsidian-icons-plugin"
+  "obsidian-icons-plugin",
+  "dataview",
+  "x86-flow-graphing",
+  "obsidian-git"
 ]
