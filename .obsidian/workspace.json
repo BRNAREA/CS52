@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "fdc23dbeeb12b867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hacking/Desec/Enumeracao/NetBIOS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "search",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 200
   },
   "right": {
     "id": "51719a6fceb6be0c",
@@ -123,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking/Desec/Enumeracao/NetBIOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking/Desec/Enumeracao/NetBIOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hacking/Desec/Enumeracao/NetBIOS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -200,10 +183,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "fdc23dbeeb12b867",
+  "active": "df52db7b9cb7b31b",
   "lastOpenFiles": [
-    "Hacking/Desec/Enumeracao/POP3.md",
+    "Sem título",
+    "2024-04-02.md",
+    "2024-04-03.md",
     "Hacking/Desec/Enumeracao/NetBIOS.md",
+    "Hacking/Desec/Enumeracao/POP3.md",
     "Hacking/Desec/Enumeracao/FTP.md",
     "Hacking/Desec/Enumeracao/WAFS.md",
     "Hacking/Desec/Enumeracao/HTTPS.md",
@@ -226,9 +212,6 @@
     "Hacking/Desec/Information Gathering/Infra/Mapeando a Infra por IP.md",
     "Programação/Assembly/Hello World.md",
     "Hacking/Desec/Information Gathering/Infra/IANA.md",
-    "Hacking/Desec/Information Gathering/Infra/Dork-eye.md",
-    "Hacking/Desec/Information Gathering/Infra/Non-Delivery Notification.md",
-    "Hacking/Ferramentas/DNS/fierce.md",
     "Hacking/Bounties/Acorns Grow/Information Gathering",
     "Hacking/Bounties/Acorns Grow",
     "Hacking/Bounties",
