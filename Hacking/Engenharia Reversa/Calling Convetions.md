@@ -1,8 +1,8 @@
 
 Como o compilador vai lidar com a chamada de uma funcao.
 - Define como os argumentos sao passados para a funcao
--  Como a funcao que foi chamada retorna para o resultado
-- quem fica responsavel por limpar os parametros da pilha (caller ou callee)
+- Como a funcao que foi chamada retorna para o resultado
+- Quem fica responsavel por limpar os parametros da pilha (caller ou callee)
 
 ## Fastcall
 - o retorno da funcao vai em EAX

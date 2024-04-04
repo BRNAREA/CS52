@@ -8,65 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0fcfe44b30edabf0",
+            "id": "ad69f0f1d17c87bb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "fdc23dbeeb12b867",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking/Engenharia Reversa/Injeção de DLL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0eccfcf522eb9fe3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hydra/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "527d7fdb7c0f6611",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240225212344.png"
-              }
-            }
-          },
-          {
-            "id": "51f02b842073713a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Animes/Lista.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56eedef66d03aaba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Hacking/Desec/Enumeracao/NetBIOS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +49,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -95,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#D9C5BE",
+                "query": "search",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 208.5
   },
   "right": {
     "id": "51719a6fceb6be0c",
@@ -143,12 +107,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "560a02967f41ee0e",
+            "id": "ec54c1c7e62d6167",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "cf40fdf4e4ce46f4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Hacking/Desec/Enumeracao/NetBIOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,56 +135,41 @@
             }
           },
           {
-            "id": "92a087feb1fbbaf0",
+            "id": "e81ff4a366c8ca12",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Hacking/Desec/Enumeracao/NetBIOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ec54c1c7e62d6167",
+            "id": "b53d227f3343c753",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
           {
-            "id": "ea75fb5ebd357611",
+            "id": "81ec6da1489eb59d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Hacking/Desec/Enumeracao/NetBIOS.md"
               }
             }
           },
           {
-            "id": "fe62dedae07c20b6",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "9776d3613263f84e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "0fd1f61bf6d417a9",
+            "id": "d05701fd3281edde",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -217,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -226,62 +186,77 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "templates:Insert template": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "omnisearch:Omnisearch": false,
       "obsidian-day-planner:Timeline": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false
+      "zk-prefixer:Criar nova nota única": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "56eedef66d03aaba",
+  "active": "fdc23dbeeb12b867",
   "lastOpenFiles": [
-    "Animes/Lista.md",
-    "conflict-files-obsidian-git.md",
-    "Programação/C#/Links.md",
-    "Livros/Ubuntu 22.04 LTS Guide.md",
-    "Livros/PHP - AplicaБ0К4Б0Л1es Web.md",
-    "Livros/Javascript Design Patterns.md",
-    "Livros/Linux Bible - Documentation.md",
-    "Livros/Javascript -  O Guia Definitivo.md",
-    "Livros/Estrutura de Dados e AbstraБ0К4Б0К0o.md",
-    "Livros/Compiladores Principios Tecnicas e Ferramenta - by Alfred V..md",
-    "Ciências da Computação/Fundamentos Matématicos/Técnicas de Demonstrações (Parte Demonstração) - Fundamentos Matemáticos para Computação.md",
-    "Ciências da Computação/Fundamentos Matématicos/Regras de Inferência.md",
-    "Ciências da Computação/Fundamentos Matématicos/Equivalências Tautológicas (Parte III de Lógica) - Fundamentos Matemáticos para Computação.md",
-    "Programação/Assembly/Loop.md",
-    "Programação/Assembly/Macros.md",
-    "Programação/Assembly/Processadores.md",
-    "Programação/Assembly/Registradores.md",
-    "Programação/Assembly/PLT E GOT.md",
+    "Hacking/Desec/Enumeracao/POP3.md",
+    "Hacking/Desec/Enumeracao/NetBIOS.md",
+    "Hacking/Desec/Enumeracao/FTP.md",
+    "Hacking/Desec/Enumeracao/WAFS.md",
+    "Hacking/Desec/Enumeracao/HTTPS.md",
+    "Hacking/Desec/Enumeracao/HTTP.md",
+    "Hacking/Desec/Metasploit/Modulos Auxiliares.md",
+    "Hacking/Desec/Metasploit/Introducao.md",
+    "Hacking/Bounties/Shodans/vivo.md",
+    "Hacking/Bounties/Shodans",
+    "Hacking/Desec/Information Gathering/Introducao.md",
+    "Hacking/Desec/Information Gathering/Infra/RDAP.md",
+    "Hacking/Desec/Information Gathering/Infra/Subdomain Takeover.md",
+    "Hacking/Desec/Information Gathering/Infra/SPF.md",
+    "Hacking/Desec/Information Gathering/Infra/SHODAN.md",
+    "Hacking/Desec/Information Gathering/Web/Recon.md",
+    "Hacking/Desec/Information Gathering/Web/Robots.txt and Sitemap.xml.md",
+    "Hacking/Bounties/Acorns Grow/Information Gathering.md",
+    "Hacking/Desec/Redes/DNS.md",
+    "Hacking/Desec/Information Gathering/Infra/Domain Name System.md",
+    "Hacking/Desec/Information Gathering/Infra/BGP.md",
+    "Hacking/Desec/Information Gathering/Infra/Mapeando a Infra por IP.md",
     "Programação/Assembly/Hello World.md",
-    "Programação/Assembly/Endereçamentos.md",
-    "Sites/UTEIS.md",
-    "Sites/MEGA.md",
-    "Programação/JavaScript/Links.md",
-    "Sites/SITES UTEIS.md",
-    "Hacking/Engenharia Reversa/Links.md",
-    "Programação/Assembly/SITES.md",
-    "Pasted image 20240225212344.png",
-    "Sites",
-    "Pasted image 20240229002200.png",
-    "Hydra",
-    "Programação/Assembly/1708815974551.canvas",
-    "Programação/Assembly/1708815928539.canvas",
-    "Pasted image 20240224164319.png",
-    "MIPbancoregistarm7.png",
-    "Hacking/Toolkits",
-    "Programação/Assembly/Untitled",
-    "Hacking/Engenharia Reversa",
-    "Programação/JavaScript/Node.JS",
-    "Programação/Assembly",
-    "Programação/C#",
-    "Hacking",
-    "Design",
-    "Untitled.canvas"
+    "Hacking/Desec/Information Gathering/Infra/IANA.md",
+    "Hacking/Desec/Information Gathering/Infra/Dork-eye.md",
+    "Hacking/Desec/Information Gathering/Infra/Non-Delivery Notification.md",
+    "Hacking/Ferramentas/DNS/fierce.md",
+    "Hacking/Bounties/Acorns Grow/Information Gathering",
+    "Hacking/Bounties/Acorns Grow",
+    "Hacking/Bounties",
+    "Hacking/Desec/Desenvolvimento de Exploits/Trabalhando com Exploits/Linux",
+    "Hacking/Desec/Desenvolvimento de Exploits/Trabalhando com Exploits/Windows 10",
+    "Hacking/Desec/Desenvolvimento de Exploits/Buffer Overflow para Pentesters/Linux",
+    "Hacking/Desec/Desenvolvimento de Exploits/Buffer Overflow para Pentesters/Windows 10",
+    "Hacking/Desec/Desenvolvimento de Exploits/Trabalhando com Exploits",
+    "Hacking/Desec/Desenvolvimento de Exploits/Mecanismos de Protecao/ASLR",
+    "Anexos/mpv-shot0001 12.jpg",
+    "Anexos/mpv-shot0002 12.jpg",
+    "Anexos/mpv-shot0002 11.jpg",
+    "Anexos/mpv-shot0002 10.jpg",
+    "Anexos/mpv-shot0001 11.jpg",
+    "Anexos/Servico Ativo.canvas",
+    "Anexos/Servico Inativo.canvas",
+    "Anexos/mpv-shot0001 10.jpg",
+    "Anexos/mpv-shot0001 9.jpg",
+    "Anexos/mpv-shot0002 9.jpg",
+    "Anexos/mpv-shot0001 8.jpg",
+    "Anexos/mpv-shot0016.jpg",
+    "Hacking/Desec/Redes/1711652842231.canvas",
+    "Sem título.canvas",
+    "Hacking/Desec/Analise de Vulnerabilidade/1711560308141.canvas",
+    "Hacking/Desec/Enumeracao/1711424137272.canvas",
+    "Hacking/Desec/Enumeracao/Sem título.canvas",
+    "Hacking/Desec/Enumeracao/asm.canvas",
+    "Hacking/Desec/Sem título.canvas",
+    "Programação/Assembly/1708815974551.canvas"
   ]
 }

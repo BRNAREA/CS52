@@ -1,0 +1,1 @@
+Ferramenta OSINT para coleta de informacoes atraves de Google Search e Google Dorks.

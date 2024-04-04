@@ -1,0 +1,4 @@
+- Efetuar buscas na pagina do Linkedin da empresa em busca de colaboradores.
+- Mapear pessoas envolvidas com a tecnologia (Devs, TI, Seguranca).
+- Pesquisem o perfil desses profissionais, tecnologias que dominam, github, projetos, etc..
+- Pesquisar comportamentos nas redes sociais.

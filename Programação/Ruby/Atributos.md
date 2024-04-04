@@ -1,1 +1,0 @@
-<p align="center"> Atributos (ou variáveis de instancia) no Ruby são como sempre <b>privados</b> e começam com <b>@</b> , eles só podem ser alterados pelos métodos de um objeto.</p>

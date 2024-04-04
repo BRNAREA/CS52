@@ -1,3 +1,4 @@
+```assembly
 section .data
 	msg:  db	'Hello World !', 0xa, 0xd
 	tam:  equ $ - msg
@@ -15,3 +16,6 @@ _start:
 	mov	eax, 1    ; syscall: sys_exit
 	mov	ebx, 0    ; status: 0
 	int 0x80      ; chama o kernel
+```
+
+

@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"type":"text","id":"1","text":"```\nCliente\n```","startline":0,"endline":0,"x":-80,"y":0,"width":180,"height":60},
+		{"id":"ecc8a2a30efba271","type":"text","text":"Servidor Web","x":270,"y":140,"width":250,"height":60},
+		{"type":"text","id":"afcec99d65434adf","text":"```\nCliente\n```","startline":0,"endline":0,"x":-80,"y":140,"width":180,"height":60},
+		{"id":"bac8cff2adba34c2","type":"text","text":"PORTA 80 ABERTA","x":420,"y":260,"width":200,"height":60},
+		{"id":"f9e85b3082982089","type":"text","text":"Servidor Web","x":270,"y":0,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"8a363a3027db5142","fromNode":"1","fromSide":"right","toNode":"f9e85b3082982089","toSide":"left","color":"1","label":"SYN"},
+		{"id":"3be1659756b7f413","fromNode":"ecc8a2a30efba271","fromSide":"left","toNode":"afcec99d65434adf","toSide":"right","color":"1","label":"SYN/ACK"},
+		{"id":"4ca65b9df17d720e","fromNode":"ecc8a2a30efba271","fromSide":"bottom","toNode":"bac8cff2adba34c2","toSide":"top"}
+	]
+}

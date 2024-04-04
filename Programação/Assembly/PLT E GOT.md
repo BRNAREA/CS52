@@ -1,4 +1,6 @@
 <h1 align="center">Procedure Linkage Table (PLT)</h1>
+<hr>
+
 ```ad-info
 title: Oque significa PLT ?
 

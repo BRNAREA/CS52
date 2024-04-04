@@ -5,12 +5,13 @@
   "obsidian-activity-history",
   "obsidian-version-history-diff",
   "code-block-copy",
-  "obsidian-chartsview-plugin",
   "highlightr-plugin",
   "omnisearch",
   "obsidian-audio-player",
   "obsidian-icons-plugin",
-  "dataview",
   "x86-flow-graphing",
-  "obsidian-git"
+  "obsidian-git",
+  "make-md",
+  "lovely-mindmap",
+  "terminal"
 ]

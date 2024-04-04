@@ -29,7 +29,7 @@ Na matematica chamamos de **Axiomas** afirmacoes tao simples, que nao precisam d
 
 
 <h2 align="center"> Tecnicas de Demonstracoes</h2>
-**Demonstracao exaustiva**: Na demonstracao exaustiva provamos que a afirmacao eh verdadeira para todos os possiveis valores de **x** no dominio.. Exemplo:
+**Demonstracao exaustiva**: Na demonstracao exaustiva provamos que a afirmacao eh verdadeira para todos os possiveis valores de **x** no dominio.. Exemplo: 
 
 									(∀x E D)(P(x) => Q(x)) 
 

@@ -1,0 +1,1 @@
+Primeira linha da busca -> `head -n1`

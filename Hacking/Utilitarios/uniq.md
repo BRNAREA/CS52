@@ -1,0 +1,1 @@
+`uniq-c` mostra a quantidade de ocorrencias  que tal consulta teve

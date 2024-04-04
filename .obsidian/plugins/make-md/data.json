@@ -1,4 +1,5 @@
 {
+  "newNotePlaceholder": "Untitled",
   "defaultInitialization": false,
   "filePreviewOnHover": false,
   "flowMenuEnabled": true,
@@ -8,21 +9,22 @@
   "mobileMakeBar": true,
   "inlineStyler": true,
   "makerMode": true,
+  "imageThumbnails": false,
+  "spacesMDBInHidden": true,
   "inlineStylerColors": true,
   "editorFlow": true,
   "internalLinkClickFlow": true,
   "contextEnabled": true,
+  "spaceViewEnabled": true,
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
   "activeView": "root",
   "hideFrontmatter": true,
   "activeSpace": "",
-  "spacesCompactMode": false,
   "defaultDateFormat": "MMM dd yyyy",
   "spacesEnabled": false,
   "spacesPerformance": false,
-  "collapsedTags": [],
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -33,34 +35,24 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {
-    "/": [
-      "Ciências da Computação",
-      "Ciências da Computação/Fundamentos Matématicos"
-    ]
-  },
   "expandedSpaces": [
     "/",
     null
   ],
-  "openFolders": [],
-  "fileIcons": [],
-  "cachedSpaces": [],
+  "expandFolderOnClick": true,
   "menuTriggerChar": "/",
+  "inlineStickerMenu": true,
   "emojiTriggerChar": ":",
   "folderContextFile": "context",
-  "tagContextFolder": "Context",
+  "folderFrameFile": "frames",
+  "spacesFolder": "Spaces",
   "hiddenFiles": [
     "Context"
   ],
-  "lineNumbers": false,
   "hiddenExtensions": [
     "mdb"
   ],
-  "vaultSort": [
-    "rank",
-    true
-  ],
+  "newFileLocation": "current",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": true,
@@ -68,6 +60,51 @@
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
+  "waypoints": [
+    "Spaces/Home",
+    "/",
+    "spaces://$tags"
+  ],
+  "spacesUseAlias": false,
+  "fmKeyAlias": "aliases",
+  "fmKeyBanner": "banner",
+  "fmKeyColor": "color",
+  "fmKeySticker": "sticker",
+  "fmKeyContexts": "_contexts",
+  "fmKeySort": "_sort",
+  "fmKeyFilter": "_filters",
+  "fmKeyLinks": "_links",
+  "openSpacesOnLaunch": true,
+  "indexSVG": false,
+  "quickFrames": [],
+  "readableLineWidth": true,
+  "autoAddContextsToSubtags": true,
+  "autoMigration08": false,
+  "releaseNotesPrompt": 0.9,
+  "enableDefaultSpaces": true,
+  "enableTagSpaces": true,
+  "enableHomeSpace": true,
+  "showSpacePinIcon": true,
+  "minimalFix": false,
+  "experimental": false,
+  "systemName": "Vault",
+  "spacesCompactMode": false,
+  "collapsedTags": [],
+  "expandedFolders": {
+    "/": [
+      "Ciências da Computação",
+      "Ciências da Computação/Fundamentos Matématicos"
+    ]
+  },
+  "openFolders": [],
+  "fileIcons": [],
+  "cachedSpaces": [],
+  "tagContextFolder": "Context",
+  "lineNumbers": false,
+  "vaultSort": [
+    "rank",
+    true
+  ],
   "spacesSyncLastUpdated": "Context/spacesLastSync.log",
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
